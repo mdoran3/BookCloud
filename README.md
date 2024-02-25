@@ -23,7 +23,9 @@ The following text will provide intstructions to create and connect a database f
     * A JDBC is inlcuded in the github repo as part of the project in `./BookCloud/lib`
   * A command line to run the application from (this will also act as the GUI)
 
-<h2>Verify Contents of Cloned Repo</h2>
+<h2>Verify Contents of Cloned Repository</h2>
+
+The repository can be cloned from here: 
 
  - [x]  `SER322Application` directory (parent)
  

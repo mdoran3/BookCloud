@@ -33,7 +33,7 @@ Once you have cloned the repository, verify that it contains the following entit
  
  - [x]  `README.md` file inside the parent `BookCloud` directory 
    
- - [x]  3 additional driectories should be contained in `BookCloud` directory: `lib`, `mysql`, `src`
+ - [x]  3 additional driectories should be contained in the `BookCloud` directory: `lib`, `mysql`, `src`
    
  - [x]  The `lib` directory contains: `mysql-connector-j-8.3.0.jar` (this is the jdbc driver)
    

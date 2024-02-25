@@ -43,7 +43,7 @@ Once you have cloned the repository, verify that it contains the following entit
 
 <h2>Instructions</h2>
 
-* Clone the repo from: https://github.com/zhintze/SER322-Application
+* Clone the repo from: https://github.com/mdoran3/BookCloud
 
 * Open and instance or your MySQLWorkbench and login.
 

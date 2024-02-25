@@ -73,3 +73,9 @@ Once you have cloned the repository, verify that it contains the following entit
       * In the example above the `<driver>` is: `com.mysql.cj.jdbc.Driver`
 
 * From here you will be prompted with a GUI interface on the command line. Select an integer for a command you would like to run and follow the on-screen instructions.
+
+<h2>Authors and Engineers</h2> 
+
+  * Mitchell Doran (@mdoran3)
+  * Timothy Awotunde (@tmawotunde)
+  * Zachariah Hintze (@zhintze)

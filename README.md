@@ -25,9 +25,11 @@ The following text will provide intstructions to create and connect a database f
 
 <h2>Verify Contents of Cloned Repository</h2>
 
-The repository can be cloned from here: 
+The repository can be cloned from here: https://github.com/mdoran3/BookCloud
 
- - [x]  `SER322Application` directory (parent)
+Once you have cloned the repository, verify that it contains the following entities:
+
+ - [x]  `BookCLoud` directory (parent)
  
  - [x]  `README.md` file and `BookCloud` directory inside of parent
    

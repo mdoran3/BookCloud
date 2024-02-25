@@ -1,23 +1,11 @@
 /*
- * Group 2
- * Alex Allen
- * Timothy Awotunde
- * Mitchell Doran
- * Zachariah Hintze
+ * Book Cloud: A Java Application with a MySQL RDBMS
  * 
- * SER322
- * Deliverable 4: Application Implementation
- * 
- * 
- * 
- * Application:
- * ----------------
- * Book Cloud Admin Control Center 
+ * |--------------------------------|
+ * |Book Cloud Admin Control Center |
+ * |--------------------------------|
  * 
  */
-
-
-
 import java.sql.*;
 import java.io.*;
 import javax.xml.parsers.*;
@@ -45,6 +33,7 @@ public class BookCloud {
         }
     }
     
+    
     /* ----------------------------------------
      *             VIEW USER
      * ----------------------------------------           
@@ -65,8 +54,7 @@ public class BookCloud {
         }
     }
     
-    
-    
+
     /* ----------------------------------------
      *             ADD USER
      * ----------------------------------------           

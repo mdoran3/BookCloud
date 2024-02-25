@@ -17,7 +17,7 @@ Book Cloud is a an Admin Control Panel for and online bookstore. It is a Java ap
 
 <h2>Getting Started</h2>
 
-The following text will provide intstructions to create and connect a database for this Java application, Book Cloud, using MySQL and JDBC. The setup will proivde access to the Admin Control Center for the Book Cloud application. This control center utilizes and manipulates data from the connected database. To ensure proper setup of the Java application, the following tools will be needed:
+The following text will provide intstructions to create and connect a database for this Java application using MySQL and JDBC. The setup will proivde access to the Admin Control Center for the Book Cloud application. This control center utilizes and manipulates data from the connected database. To ensure proper setup of the Java application, the following tools will be needed:
   * An instance of MySQLWorkbench to create and manipulate a database
   * A Java Database Connector (JDBC), provided as .jar file here: https://dev.mysql.com/downloads/connector/j/
     * A JDBC is inlcuded in the github repo as part of the project in `./BookCloud/lib`

@@ -1,6 +1,9 @@
 /*
  * Book Cloud: A Java Application with a MySQL RDBMS
  * 
+ * @version 1.1
+ * @author Mitchell Doran, Zachariah Hintze
+ * 
  * |--------------------------------|
  * |Book Cloud Admin Control Center |
  * |--------------------------------|
@@ -33,7 +36,7 @@ public class BookCloud {
         }
     }
     
-    
+
     /* ----------------------------------------
      *             VIEW USER
      * ----------------------------------------           

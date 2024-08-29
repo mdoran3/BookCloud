@@ -1,4 +1,5 @@
 # Book Cloud: A Java Application with a MySQL RDBMS
+<h3><a href="https://www.youtube.com/watch?v=-t4AXrQc1Zo"> Watch the Walkthrough of this Java Application</a></h3>
 
 <h2>What is Book Cloud?</h2>
 Book Cloud is a an Admin Control Panel for and online bookstore. It is a Java application with a relational database running inside a MySQL Workbench. Once setup is complete, a user can can access the online bookstore's database by selecting commands the the command line GUI interface. The interface provides the following fuctionality:
